@@ -1,12 +1,12 @@
-# Welcome to my profile!!
+# Welcome to my profile!!😁
 
 ### Sobre mim:
 
 Sou um desenvolvedor Front-End Python intermediario,atuando como web-developer,tenho habilidade em Bootstap.
 
-## Skills
+## 🚀Skills:
 
-### 1. Linguagem de programação:
+### 👨‍💻1. Linguagem de programação
 
 ![Python logo](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![Html5 logo](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
