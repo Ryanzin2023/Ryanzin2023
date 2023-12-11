@@ -28,3 +28,4 @@ Sou um desenvolvedor Front-End Python intermediário apaixonado por transformar 
 ### 5. GitStats:
 
 ![Status](https://github-readme-stats.vercel.app/api?username=Ryanzin2023&theme=blue-green)
+![Status](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryanzin2023&theme=blue-green)
