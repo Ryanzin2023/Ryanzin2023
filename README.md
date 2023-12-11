@@ -2,7 +2,7 @@
 
 ### Sobre mim:
 
-Sou um desenvolvedor Front-End Python intermediario,atuando como web-developer,tenho habilidade em Bootstap.
+"Sou um desenvolvedor Front-End Python intermediário apaixonado por transformar ideias em experiências digitais envolventes. Com foco em web development. Minha jornada profissional é pautada na busca constante por inovação e aprimoramento, sempre atento às últimas tendências e melhores práticas do universo Front-End. Além do Python, estou sempre explorando novas tecnologias para aprimorar minhas capacidades e oferecer soluções eficientes aos desafios do desenvolvimento web. Comprometido com a entrega de produtos de alta qualidade, estou preparado para enfrentar novos desafios e contribuir significativamente para projetos que demandem criatividade, precisão e experiência técnica."
 
 ## 🚀Skills:
 
