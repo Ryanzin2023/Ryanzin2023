@@ -21,6 +21,10 @@ Sou um desenvolvedor Front-End Python intermediário apaixonado por transformar 
 ![Github logo](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Vercel logo](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-### 3. Enviroment:
+### 4. Enviroment:
 ![Visual Studio Code logo](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Colab logo](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
+
+### 5. GitStats:
+
+https://github-readme-stats.vercel.app/api?username={Ryanzin2023}&theme=blue-green
